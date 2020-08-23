@@ -1,5 +1,6 @@
 # Flat Beds
 ![Game version](https://img.shields.io/badge/Minecraft-1.15--1.16.2-blueviolet)
+![Platform](https://img.shields.io/badge/platform-Default%20%7C%20Faithful%20x32%20%7C%20Bare%20Bones-red)
 
 The flat beds resource pack introduces flat bed icons from the bedrock edition into java edition.
 
