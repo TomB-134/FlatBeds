@@ -1,7 +1,3 @@
-plugins {
-    id 'java'
-}
-
 task zipAll(type: Zip) {
     dependsOn 'zipX16'
     dependsOn 'zipBareBones'
