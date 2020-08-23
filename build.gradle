@@ -1,0 +1,50 @@
+plugins {
+    id 'java'
+}
+
+task zipAll(type: Zip) {
+    dependsOn 'zipX16'
+    dependsOn 'zipBareBones'
+    dependsOn 'zipX32'
+}
+
+task zipX16(type: Zip) {
+    from 'FlatBeds-x16/'
+    include '**/'
+    archiveName 'FlatBeds-x16.zip'
+    destinationDir(file('/build/zips'))
+}
+
+task zipX32(type: Zip) {
+    from 'FlatBeds-x32/'
+    include '**/'
+    archiveName 'FlatBeds-x32.zip'
+    destinationDir(file('/build/zips'))
+}
+
+task zipBareBones(type: Zip) {
+    from 'FlatBeds-BB/'
+    include '**/'
+    archiveName 'FlatBeds-BB.zip'
+    destinationDir(file('/build/zips'))
+}
+
+configure(zipAll) {
+    group = 'flat beds'
+    description = "Tasks specific to project."
+}
+
+configure(zipX16) {
+    group = 'flat beds'
+    description = "Tasks specific to project."
+}
+
+configure(zipBareBones) {
+    group = 'flat beds'
+    description = "Tasks specific to project."
+}
+
+configure(zipX32) {
+    group = 'flat beds'
+    description = "Tasks specific to project."
+}
