@@ -9,8 +9,10 @@ Currently supported packs include:
 
 Simply click on the version you want to download, and the newest version will be downloaded.
 
-[![Imgur Image](https://i.imgur.com/2PFrOWm.png)](https://github.com/TomB-134/FlatBeds/releases/download/1.15-1.16.1/FlatBeds-x16.zip)
+[![Imgur Image](https://i.imgur.com/2PFrOWm.png)](https://github.com/TomB-134/FlatBeds/releases/download/1.16.2/FlatBeds-x16.zip)
 
-[![Imgur Image](https://i.imgur.com/J6vHJBE.png)](https://github.com/TomB-134/FlatBeds/releases/download/1.15-1.16.1/FlatBeds-BB.zip)
+[![Imgur Image](https://i.imgur.com/J6vHJBE.png)](https://github.com/TomB-134/FlatBeds/releases/download/1.16.2/FlatBeds-BB.zip)
 
-[![Imgur Image](https://i.imgur.com/t5hNo38.png)](https://github.com/TomB-134/FlatBeds/releases/download/1.15-1.16.1/FlatBeds-x32.zip)
+[![Imgur Image](https://i.imgur.com/t5hNo38.png)](https://github.com/TomB-134/FlatBeds/releases/download/1.16.2/FlatBeds-x32.zip)
+
+[Older Versions](https://github.com/TomB-134/FlatBeds/releases)
