@@ -2,6 +2,8 @@
 ![Game version](https://img.shields.io/badge/Minecraft-1.15--1.16.2-blueviolet)
 The flat beds resource pack introduces flat bed icons from the bedrock edition into java edition.
 
+This project had gradle tasks designed to zip the texture packs automatically, meaning if you wanted to create a custom flat beds texture pack this could also work for your needs.
+
 Currently supported packs include:
 * Default/x16 - Textures from Bedrock Edition
 * Faithful/x32 - Textures from [Faithful x32 BE](http://tiny.cc/faithful-bedrock)
