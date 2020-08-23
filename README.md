@@ -7,7 +7,7 @@ Currently supported packs include:
 * Faithful/x32 - Textures from [Faithful x32 BE](http://tiny.cc/faithful-bedrock)
 * Bare Bones - Textures from [Bare Bones BE](https://mcpedl.com/bare-bones-be/)
 
-
+Simply click on the version you want to download, and the newest version will be downloaded.
 
 [![Imgur Image](https://i.imgur.com/2PFrOWm.png)](https://github.com/TomB-134/FlatBeds/releases/download/1.15-1.16.1/FlatBeds-x16.zip)
 
