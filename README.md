@@ -9,14 +9,8 @@ Currently supported packs include:
 
 
 
-![Imgur Image](https://i.imgur.com/2PFrOWm.png)
+[![Imgur Image](https://i.imgur.com/2PFrOWm.png)](https://github.com/TomB-134/FlatBeds/releases/download/1.15-1.16.1/FlatBeds-x16.zip)
 
-[Download for 1.16.2](https://github.com/TomB-134/FlatBeds/releases/download/1.15-1.16.1/FlatBeds-x16.zip)
+[![Imgur Image](https://i.imgur.com/J6vHJBE.png)](https://github.com/TomB-134/FlatBeds/releases/download/1.15-1.16.1/FlatBeds-BB.zip)
 
-![Imgur Image](https://i.imgur.com/J6vHJBE.png)
-
-[Download for 1.16.2](https://github.com/TomB-134/FlatBeds/releases/download/1.15-1.16.1/FlatBeds-BB.zip)
-
-![Imgur Image](https://i.imgur.com/t5hNo38.png)
-
-[Download for 1.16.2](https://github.com/TomB-134/FlatBeds/releases/download/1.15-1.16.1/FlatBeds-x32.zip)
+[![Imgur Image](https://i.imgur.com/t5hNo38.png)](https://github.com/TomB-134/FlatBeds/releases/download/1.15-1.16.1/FlatBeds-x32.zip)
