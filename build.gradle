@@ -25,6 +25,10 @@ task zipBareBones(type: Zip) {
     destinationDir(file('/build/zips'))
 }
 
+task clean(type: Delete) {
+    delete '/build'
+}
+
 configure(zipAll) {
     group = 'flat beds'
     description = "Tasks specific to project."
@@ -41,6 +45,11 @@ configure(zipBareBones) {
 }
 
 configure(zipX32) {
+    group = 'flat beds'
+    description = "Tasks specific to project."
+}
+
+configure(clean) {
     group = 'flat beds'
     description = "Tasks specific to project."
 }
